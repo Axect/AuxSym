@@ -1,3 +1,4 @@
 wandb/
 .ipynb_checkpoints/
 Auxiliary_Symmetry/
+data/kepler2.nc
